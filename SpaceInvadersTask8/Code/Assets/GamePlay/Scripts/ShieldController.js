@@ -6,7 +6,7 @@ function OnTriggerEnter(other:Collider)
 {
 	if(other.tag=="alienlaser")
 	{
-		
+		ShieldHealth-=1;
 		Destroy(other.gameObject);
 		PlayerController.health++;
 	}
