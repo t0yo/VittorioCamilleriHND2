@@ -33,7 +33,12 @@ function OnTriggerEnter(other:Collider)
 		}
 		
 		
+		
 	}
 }
 
-
+function OnBecameInvisible()
+{
+	Destroy(this.gameObject);
+	
+}
