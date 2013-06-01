@@ -18,10 +18,6 @@ function Start () {
 
 function Update () 
 {
-	if(ShieldHealth<=0)
-	{
-		Destroy(gameObject);
-	}
 	
 }
 
