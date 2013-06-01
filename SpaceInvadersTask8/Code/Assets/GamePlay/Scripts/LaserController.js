@@ -29,6 +29,8 @@ function OnTriggerEnter(other:Collider)
 			var PlayerControllerScript:PlayerController;
 			PlayerControllerScript = GameObject.FindGameObjectWithTag("player").GetComponent(PlayerController);
 			Instantiate(bomb,transform.position,transform.rotation);
+			Destroy(other.gameObject);
+			Destroy(this.gameObject);
 			
 		}
 		
