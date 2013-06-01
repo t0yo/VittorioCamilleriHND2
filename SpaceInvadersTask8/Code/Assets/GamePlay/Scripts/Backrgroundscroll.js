@@ -15,6 +15,10 @@ function Start ()
 		renderer.sharedMaterial=backgroundgeneral[1];
 	}
 	
+	if (GameController.levelsPlayed==3)
+	{
+		renderer.sharedMaterial=backgroundgeneral[2];
+	}
 	
 	
 	if (GameController.levelsPlayed==4)
