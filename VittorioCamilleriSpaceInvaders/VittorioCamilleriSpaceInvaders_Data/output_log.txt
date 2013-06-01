@@ -1,0 +1,110 @@
+Initialize engine version: 4.1.2f1 (911c7369eeac)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.623]
+    Renderer: NVIDIA GeForce GTS 250
+    Vendor:   NVIDIA
+    VRAM:     997 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\toyo\Desktop\Blah\UnityOld\VittorioCamilleriSpaceInvaders\VittorioCamilleriSpaceInvaders_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\toyo\Desktop\Blah\UnityOld\VittorioCamilleriSpaceInvaders\VittorioCamilleriSpaceInvaders_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\toyo\Desktop\Blah\UnityOld\VittorioCamilleriSpaceInvaders\VittorioCamilleriSpaceInvaders_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\toyo\Desktop\Blah\UnityOld\VittorioCamilleriSpaceInvaders\VittorioCamilleriSpaceInvaders_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\toyo\Desktop\Blah\UnityOld\VittorioCamilleriSpaceInvaders\VittorioCamilleriSpaceInvaders_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\toyo\Desktop\Blah\UnityOld\VittorioCamilleriSpaceInvaders\VittorioCamilleriSpaceInvaders_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.059 seconds
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 156.
+Total: 1.511686 ms (FindLiveObjects: 0.016843 ms CreateObjectMapping: 0.028327 ms MarkObjects: 0.351412 ms  DeleteObjects: 0.008038 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Backrgroundscroll.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Platform assembly: C:\Users\toyo\Desktop\Blah\UnityOld\VittorioCamilleriSpaceInvaders\VittorioCamilleriSpaceInvaders_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 2.141396 ms (FindLiveObjects: 0.031389 ms CreateObjectMapping: 0.031772 ms MarkObjects: 0.840251 ms  DeleteObjects: 0.034835 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 232 unused Assets to reduce memory usage. Loaded Objects now: 188.
+Total: 3.473165 ms (FindLiveObjects: 0.048998 ms CreateObjectMapping: 0.089192 ms MarkObjects: 0.367490 ms  DeleteObjects: 1.687775 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Backrgroundscroll.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 1.148024 ms (FindLiveObjects: 0.016077 ms CreateObjectMapping: 0.019140 ms MarkObjects: 0.437543 ms  DeleteObjects: 0.019140 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 277 unused Assets to reduce memory usage. Loaded Objects now: 188.
+Total: 3.654614 ms (FindLiveObjects: 0.027178 ms CreateObjectMapping: 0.055889 ms MarkObjects: 1.517045 ms  DeleteObjects: 1.292340 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Backrgroundscroll.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 1.937745 ms (FindLiveObjects: 0.032155 ms CreateObjectMapping: 0.031772 ms MarkObjects: 0.674114 ms  DeleteObjects: 0.031772 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 322 unused Assets to reduce memory usage. Loaded Objects now: 189.
+Total: 3.061270 ms (FindLiveObjects: 0.053592 ms CreateObjectMapping: 0.068521 ms MarkObjects: 0.666076 ms  DeleteObjects: 1.536568 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Backrgroundscroll.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 1.906355 ms (FindLiveObjects: 0.029858 ms CreateObjectMapping: 0.031389 ms MarkObjects: 0.699762 ms  DeleteObjects: 0.029858 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 367 unused Assets to reduce memory usage. Loaded Objects now: 188.
+Total: 2.444958 ms (FindLiveObjects: 0.017991 ms CreateObjectMapping: 0.048233 ms MarkObjects: 0.451323 ms  DeleteObjects: 1.420579 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Backrgroundscroll.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 2.186184 ms (FindLiveObjects: 0.015694 ms CreateObjectMapping: 0.013780 ms MarkObjects: 1.691220 ms  DeleteObjects: 0.016077 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 412 unused Assets to reduce memory usage. Loaded Objects now: 189.
+Total: 5.095865 ms (FindLiveObjects: 0.049764 ms CreateObjectMapping: 0.130918 ms MarkObjects: 0.597937 ms  DeleteObjects: 3.140510 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Backrgroundscroll.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 3.724667 ms (FindLiveObjects: 0.029092 ms CreateObjectMapping: 0.032921 ms MarkObjects: 2.525347 ms  DeleteObjects: 0.026030 ms)
+
